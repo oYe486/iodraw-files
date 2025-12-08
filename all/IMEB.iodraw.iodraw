@@ -261,7 +261,7 @@
             <mxPoint x="26" y="-54" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="di3wufo8C97C__bAbBQX-229" value="" style="group;fillColor=#cdeb8b;" vertex="1" connectable="0" parent="1">
+        <mxCell id="di3wufo8C97C__bAbBQX-229" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry y="1120" width="1720" height="931" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-90" value="" style="group;strokeColor=default;rounded=1;perimeterSpacing=4;" vertex="1" connectable="0" parent="di3wufo8C97C__bAbBQX-229">
