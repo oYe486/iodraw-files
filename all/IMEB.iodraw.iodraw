@@ -31,10 +31,10 @@
         <mxCell id="gX0-G5096_ZnSCuH7RUi-8" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-9">
           <mxGeometry x="10" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gX0-G5096_ZnSCuH7RUi-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-12">
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b7dde8;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-12">
           <mxGeometry x="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gX0-G5096_ZnSCuH7RUi-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-12">
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b7dde8;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-12">
           <mxGeometry x="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gX0-G5096_ZnSCuH7RUi-13" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Memory Networks&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
