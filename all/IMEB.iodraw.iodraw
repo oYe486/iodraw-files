@@ -519,7 +519,7 @@
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.92;exitY=-0.01;exitDx=0;exitDy=0;fillColor=#f69f51;strokeColor=none;exitPerimeter=0;" edge="1" parent="di3wufo8C97C__bAbBQX-229">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1344" y="269" as="sourcePoint" />
-            <mxPoint x="1590" y="50" as="targetPoint" />
+            <mxPoint x="1344" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-7" value="" style="group" vertex="1" connectable="0" parent="1">
