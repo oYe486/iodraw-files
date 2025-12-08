@@ -465,9 +465,6 @@
         <mxCell id="di3wufo8C97C__bAbBQX-203" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Q*&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="1530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="di3wufo8C97C__bAbBQX-204" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;加权&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4baace;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1310" width="110" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
