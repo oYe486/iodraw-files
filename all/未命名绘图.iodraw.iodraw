@@ -286,6 +286,27 @@
         <mxCell id="di3wufo8C97C__bAbBQX-27" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;V&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="di3wufo8C97C__bAbBQX-77">
           <mxGeometry x="120" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1510" y="-10" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-79" value="" style="group" vertex="1" connectable="0" parent="di3wufo8C97C__bAbBQX-78">
+          <mxGeometry y="60" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-80" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b7dde9;" vertex="1" parent="di3wufo8C97C__bAbBQX-79">
+          <mxGeometry x="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#dbeef4;" vertex="1" parent="di3wufo8C97C__bAbBQX-79">
+          <mxGeometry x="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-82" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#93cedc;" vertex="1" parent="di3wufo8C97C__bAbBQX-79">
+          <mxGeometry x="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-83" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#4aacc7;" vertex="1" parent="di3wufo8C97C__bAbBQX-79">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-84" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;V&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="di3wufo8C97C__bAbBQX-78">
+          <mxGeometry x="120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
