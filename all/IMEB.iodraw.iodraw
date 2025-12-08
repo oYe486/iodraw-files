@@ -778,7 +778,7 @@
             <mxPoint x="2200" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZmoHmrY1ojwDdxI771uM-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZmoHmrY1ojwDdxI771uM-22" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;m&lt;sub&gt;k&lt;/sub&gt;&lt;sup&gt;v&lt;/sup&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2140" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
