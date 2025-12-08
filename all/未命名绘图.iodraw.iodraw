@@ -100,16 +100,16 @@
           <mxGeometry x="470" y="-40" width="20" height="430" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="490" y="290" width="410" height="80" as="geometry" />
+          <mxGeometry x="490" y="290" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b7dde9;" vertex="1" parent="di3wufo8C97C__bAbBQX-11">
-          <mxGeometry x="205" width="80" height="80" as="geometry" />
+          <mxGeometry x="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#dbeef4;" vertex="1" parent="di3wufo8C97C__bAbBQX-11">
-          <mxGeometry x="307.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#93cedc;" vertex="1" parent="di3wufo8C97C__bAbBQX-11">
-          <mxGeometry x="102.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#4aacc7;" vertex="1" parent="di3wufo8C97C__bAbBQX-11">
           <mxGeometry width="80" height="80" as="geometry" />
