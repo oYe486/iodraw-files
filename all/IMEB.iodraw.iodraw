@@ -504,11 +504,8 @@
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-227" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f69f51;strokeColor=none;" edge="1" parent="di3wufo8C97C__bAbBQX-229">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1520" y="271" as="sourcePoint" />
-            <mxPoint x="1720" y="271" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1620" y="270" />
-            </Array>
+            <mxPoint x="1520" y="355.52" as="sourcePoint" />
+            <mxPoint x="1720" y="355.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-228" value="&lt;sup style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 41.6667px;&quot;&gt;u*&lt;/span&gt;&lt;/sup&gt;&lt;sub style=&quot;font-size: 41.6667px;&quot;&gt;g&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="di3wufo8C97C__bAbBQX-227">
