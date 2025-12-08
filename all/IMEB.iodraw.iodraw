@@ -652,9 +652,9 @@
           <mxGeometry x="1390" y="-220" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-43" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Gate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#f69f51;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="1860" width="140" height="70" as="geometry" />
+          <mxGeometry x="1390" y="2051" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f69f51;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f69f51;strokeColor=none;endWidth=115;endSize=49.025;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430" y="1930" as="sourcePoint" />
             <mxPoint x="1660" y="1894" as="targetPoint" />
