@@ -8,6 +8,12 @@
           <mxGeometry x="90" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gX0-G5096_ZnSCuH7RUi-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="620" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
