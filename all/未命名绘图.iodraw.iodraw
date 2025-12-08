@@ -469,8 +469,14 @@
           <mxGeometry x="480" y="1321.5" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-206" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;A&lt;sup&gt;T↔T&lt;/sup&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="1290" as="geometry">
+          <mxGeometry x="400" y="1290" as="geometry">
             <mxPoint x="36" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-207" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f69f51;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1360" as="sourcePoint" />
+            <mxPoint x="760" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
