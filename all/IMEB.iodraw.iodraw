@@ -802,6 +802,15 @@
         <mxCell id="ZmoHmrY1ojwDdxI771uM-27" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;M&lt;sup&gt;V&lt;/sup&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2640" y="216.67000000000002" width="72.91139240506328" height="53.33333333333334" as="geometry" />
         </mxCell>
+        <mxCell id="ZmoHmrY1ojwDdxI771uM-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZmoHmrY1ojwDdxI771uM-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2760" y="340" as="sourcePoint" />
+            <mxPoint x="2870" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZmoHmrY1ojwDdxI771uM-29" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
