@@ -529,7 +529,7 @@
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-6" value="&lt;font style=&quot;&quot;&gt;&lt;sup style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;Q&amp;nbsp;̂&lt;/span&gt;&lt;/sup&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2060" y="620" as="geometry">
+          <mxGeometry x="2030" y="640" as="geometry">
             <mxPoint x="4" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
