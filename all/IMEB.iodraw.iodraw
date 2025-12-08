@@ -43,8 +43,8 @@
         <mxCell id="gX0-G5096_ZnSCuH7RUi-14" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;M&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;V&lt;/sup&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gX0-G5096_ZnSCuH7RUi-15" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;M&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;V&lt;/sup&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="740" width="60" height="30" as="geometry" />
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-15" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;M&lt;sub&gt;N&lt;/sub&gt;&lt;sup&gt;V&lt;/sup&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
