@@ -4,26 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jdUy78XeSTZBTxm5WRk1-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="330" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jdUy78XeSTZBTxm5WRk1-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b7dde9;" vertex="1" parent="jdUy78XeSTZBTxm5WRk1-6">
-          <mxGeometry x="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jdUy78XeSTZBTxm5WRk1-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#dbeef4;" vertex="1" parent="jdUy78XeSTZBTxm5WRk1-6">
-          <mxGeometry x="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jdUy78XeSTZBTxm5WRk1-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#93cedc;" vertex="1" parent="jdUy78XeSTZBTxm5WRk1-6">
-          <mxGeometry x="80" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jdUy78XeSTZBTxm5WRk1-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#4aacc7;" vertex="1" parent="jdUy78XeSTZBTxm5WRk1-6">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3oFC2H6l3jRwzLHP1zdu" name="第 2 页">
-    <mxGraphModel dx="3440" dy="4836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2134" dy="3002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
