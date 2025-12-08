@@ -911,10 +911,10 @@
         <mxCell id="ZmoHmrY1ojwDdxI771uM-72" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;renormalize&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#f69f5c;strokeWidth=4;fillColor=#fdeadc;" vertex="1" parent="1">
           <mxGeometry x="2280" y="450" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZmoHmrY1ojwDdxI771uM-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="ZmoHmrY1ojwDdxI771uM-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeWidth=4;strokeColor=#9fc058;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2620" y="490" as="sourcePoint" />
-            <mxPoint x="2829.8199999999997" y="490" as="targetPoint" />
+            <mxPoint x="2510" y="484.23" as="sourcePoint" />
+            <mxPoint x="2719.8199999999997" y="484.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
