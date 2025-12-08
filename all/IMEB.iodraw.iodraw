@@ -963,9 +963,6 @@
         <mxCell id="ZmoHmrY1ojwDdxI771uM-86" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b8dce8;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-82">
           <mxGeometry x="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZmoHmrY1ojwDdxI771uM-87" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;V&amp;nbsp;̅&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-81">
-          <mxGeometry x="140" y="-15" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZmoHmrY1ojwDdxI771uM-88" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2030" y="680" width="324" height="130" as="geometry" />
         </mxCell>
@@ -984,9 +981,6 @@
         <mxCell id="ZmoHmrY1ojwDdxI771uM-93" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b8dce8;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-89">
           <mxGeometry x="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZmoHmrY1ojwDdxI771uM-94" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;V&amp;nbsp;̅&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-88">
-          <mxGeometry x="140" y="-15" width="50" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZmoHmrY1ojwDdxI771uM-95" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2030" y="830" width="324" height="130" as="geometry" />
         </mxCell>
@@ -1004,9 +998,6 @@
         </mxCell>
         <mxCell id="ZmoHmrY1ojwDdxI771uM-100" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;gradientDirection=east;fillColor=#b8dce8;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-96">
           <mxGeometry x="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZmoHmrY1ojwDdxI771uM-101" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;V&amp;nbsp;̅&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ZmoHmrY1ojwDdxI771uM-95">
-          <mxGeometry x="140" y="-15" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
