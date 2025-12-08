@@ -298,10 +298,8 @@
         <mxCell id="di3wufo8C97C__bAbBQX-87" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#4baace;strokeColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="-185.70999999999995" as="sourcePoint" />
-            <mxPoint x="3681" y="-190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3020" y="-190" />
-            </Array>
+            <mxPoint x="3540" y="210" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-88" value="&lt;span style=&quot;font-size: 41.6667px;&quot;&gt;v&lt;sup&gt;*&lt;/sup&gt;&lt;sub&gt;g&lt;/sub&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="di3wufo8C97C__bAbBQX-87">
