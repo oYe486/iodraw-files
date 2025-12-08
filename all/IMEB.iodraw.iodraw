@@ -769,6 +769,9 @@
         <mxCell id="ZmoHmrY1ojwDdxI771uM-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1940" y="240" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZmoHmrY1ojwDdxI771uM-20" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
