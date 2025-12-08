@@ -219,7 +219,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="di3wufo8C97C__bAbBQX-65" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;加权&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4baace;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="510" y="652.5" width="180" height="70" as="geometry" />
+          <mxGeometry x="510" y="652.5" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="di3wufo8C97C__bAbBQX-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#4baace;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="370" as="sourcePoint" />
+            <mxPoint x="780" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
