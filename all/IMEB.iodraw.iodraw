@@ -619,7 +619,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-34" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;GCN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#cdeb8b;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="970" width="180" height="70" as="geometry" />
+          <mxGeometry x="1040" y="870" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="O_Q2cfGfVm9lBg7dEIuQ-38" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Gate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4baace;strokeWidth=4;arcSize=26;" vertex="1" parent="1">
           <mxGeometry x="1390" y="-220" width="140" height="70" as="geometry" />
