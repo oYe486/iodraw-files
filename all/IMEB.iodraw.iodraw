@@ -720,7 +720,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmoHmrY1ojwDdxI771uM-1" value="" style="group;rounded=1;fillColor=#fff1cc;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1890" y="-300" width="960" height="240" as="geometry" />
+          <mxGeometry x="1900" y="240" width="960" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ZmoHmrY1ojwDdxI771uM-2" value="" style="group" vertex="1" connectable="0" parent="ZmoHmrY1ojwDdxI771uM-1">
           <mxGeometry x="97.21518987341773" y="97.77777777777779" width="753.4177215189874" height="142.22222222222223" as="geometry" />
