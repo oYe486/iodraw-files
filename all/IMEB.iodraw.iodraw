@@ -37,6 +37,9 @@
         <mxCell id="gX0-G5096_ZnSCuH7RUi-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="gX0-G5096_ZnSCuH7RUi-12">
           <mxGeometry x="450" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gX0-G5096_ZnSCuH7RUi-13" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
